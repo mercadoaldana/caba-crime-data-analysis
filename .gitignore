@@ -1,0 +1,8 @@
+# Exclude all files in the following folders.
+
+data/*
+
+#Keep the following folders.
+
+!data/.gitkeep
+
